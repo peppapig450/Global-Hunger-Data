@@ -1,4 +1,4 @@
-# Actual data for global hunger crisis (hypothetical examples)
+# Actual data for global hunger crisis
 countries = ["India", "Nigeria", "Yemen", "Democratic Republic of the Congo", "Afghanistan"]
 years = [2018, 2019, 2020, 2021, 2022]
 hunger_data = {
